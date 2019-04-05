@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.0.0 (2019-04-05)
+
+
+### Features
+
+* **scripts:** add scripts module ([#16](https://github.com/sidohaakma/molgenis-frontend/issues/16)) ([66e8aa0](https://github.com/sidohaakma/molgenis-frontend/commit/66e8aa0))
+* **scripts:** upgrade form dependency to 3.0.0 ([e835e96](https://github.com/sidohaakma/molgenis-frontend/commit/e835e96))
+
+
+### BREAKING CHANGES
+
+* **scripts:** Form label keys updated
+
+
+
+
+
 # [1.0.0](https://github.com/molgenis/molgenis-frontend/compare/@molgenis/scripts@0.2.1...@molgenis/scripts@1.0.0) (2019-04-01)
 
 
