@@ -1,11 +1,11 @@
 {
-  "name": "@molgenis/security",
+  "name": "@molgenis-ui/security",
   "version": "0.1.2",
   "license": "LGPL-3.0",
   "description": "Interface for managing groups, users and permissions",
   "author": "sido <sido@haakma.org>",
   "publishConfig": {
-    "registry": "https://registry.molgenis.org/repository/npm-hosted/",
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "files": [
